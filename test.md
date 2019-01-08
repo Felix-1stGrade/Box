@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: pic
+---
+
 ﻿# 测试文档
 ## 工况说明
 1、根据标准制定测试工况
@@ -66,4 +70,4 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-```
+```![GLD](D:\GitHub\Box\pic\GLD.png)
